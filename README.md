@@ -1,5 +1,5 @@
 
-🚀 [here](https://currenciess.netlify.app/)** to view the live website
+🚀 Click [here](https://currenciess.netlify.app/) to view the live website
 
 
 
