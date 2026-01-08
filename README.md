@@ -1,5 +1,6 @@
 
-🚀 [CLICK HERE TO VIEW LIVE DEMO](https://currenciess.netlify.app/)
+🚀 [here](https://currenciess.netlify.app/)** to view the live website
+
 
 
 ![Uploading Screenshot 2025-10-26 at 17.39.35 (2).png…]()
